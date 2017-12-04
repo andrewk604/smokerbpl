@@ -92,6 +92,20 @@ P {
 
 #buttons1-1a {
 }
+
+#menu-1u {
+.mbr-brand__name {
+  font-size: 16px;
+}
+&.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+.mbr-navbar__section {
+}
+.mbr-navbar__hamburger {
+  color: #ffffff;
+}
+}
 @isPublish: true;
 
 #menu1-e {

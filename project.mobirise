@@ -3,7 +3,7 @@
     "name": "Jungle Way",
     "currentPage": "smokerbpl.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 65,
+    "uniqCompNum": 67,
     "versionPublish": "4.5.2",
     "theme": {
       "additionalSetColors": [
@@ -237,6 +237,54 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-1a"
+        },
+        {
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">СОСТАВ</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://andrewk604.github.io/aboutus/aboutus.html\" target=\"_blank\">О НАС</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://zengaming.com/clubs/jungle.way/\" target=\"_blank\">ZENGAMING</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/52e285483ea9a3cc3c6b2db04f7e5b7beba161cd-full-128x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">JUNGLE WAY</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1u"
         }
       ]
     },
@@ -767,7 +815,7 @@
           },
           "title": "Егор \"Enemy Force\" Арапин",
           "text": "Член команды Jungle Way,должность-Танк<br>Цель: сбор информации на точках, куда движется команда противника, а так же опен-фраги. Всегда выходит первым, вне зависимости от количеста хелс-поинтов, армора или девайса.Должен иметь высокий уровень стрельбы, знание позиций и отменную реакцию.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Jungle Way</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://andrewk604.github.io/junglecmd/page2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">САЙТ</a>",
           "_tags": [
             "Theme"
           ],
@@ -898,7 +946,7 @@
           },
           "title": "Илья \"Knight\" Мельник",
           "text": "Член команды Jungle Way,Кемпер.<br>Цель: сбор информации для отхода команды, должен находиться в неожиданных местах, чтобы перехватывая противников, перетягивающихся на другой плент и зачастую убивает противников в спину. Роль подойдет для пассивных игроков, у которых средний аим и реакция. Быть LURK’om не значит быть самым слабым звеном команды, именно этот класс часто меняет ход раунда. Этот человек должен знать посекундно карту.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://andrewk604.github.io/enemyforce/JungleWay.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Jungle Way</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://andrewk604.github.io/enemyforce/JungleWay.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">САЙТ</a>",
           "_tags": [
             "Theme"
           ],
@@ -1029,7 +1077,7 @@
           },
           "title": "Слава \"Hunter\" Мирошников",
           "text": "Член команды Jungle Way,должность-саппорт.<br>Цель: выполнение «черной» работы, раскидки, клатч моменты. Обязан всегда иметь при себе моменталки, двигается вместе с танком, обязан прикрывать его, в случае его гибели разменять по возможности соперника. На роль подходит как раз он,игрок со средним скилом, но знающим все раскидки.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://andrewk604.github.io/junglecmd/page2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">САЙТ</a>",
           "_tags": [
             "Theme"
           ],
@@ -1160,7 +1208,7 @@
           },
           "title": "Андрей \"Arnodka\" Кириченко",
           "text": "Создатель команды Jungle Way,должность-капитан.<br>Цель: координация действий команды, анализ игры противника, подбор нужной тактической основы. Играет важную роль в моральном состоянии команды. Большую часть игры находится позади, концентрируясь на карте, внося изменения в тактике<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://andrewk604.github.io/junglecmd/page2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">САЙТ</a>",
           "_tags": [
             "Theme"
           ],
@@ -1291,7 +1339,7 @@
           },
           "title": "Никита \"smok3r\" Борсук",
           "text": "Член команды Jungle Way,smok3r,должность-снайпер.<br>Цель: опен-фраги, контроль необходимых зон, прикрытие тиммейтов. Должен перемещаться вместе с командой и быть там, где необходимо прикрытие его команде.&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">САЙТ</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://andrewk604.github.io/junglecmd/page2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">САЙТ</a>",
           "_tags": [
             "Theme"
           ],
